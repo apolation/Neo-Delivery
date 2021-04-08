@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty -p report
+report: -f pretty -f html -o reports/report.html
